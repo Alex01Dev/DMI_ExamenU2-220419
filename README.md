@@ -3,7 +3,7 @@
 **Aplicación:** *Cinemapedia*  
 **Modalidad:** Trabajo independiente por contingencia climática  
 **Fecha de entrega:** Jueves 14 de noviembre de 2025  
-**Repositorio:** https://github.com/MendezPro/DMI_ExamenPractico_U2_220512  
+**Repositorio:** https://github.com/Alex01Dev/DMI_ExamenU2-220419.git  
 
 ---
 
@@ -17,7 +17,7 @@ El presente informe describe las actividades realizadas, los cambios registrados
 - **Nombre:** Alex Amauri Marquez Canales  
 - **Matrícula:** 2204109
 - **Grupo:** Décimo "B"  
-- **Repositorio privado:** https://github.com/MendezPro/DMI_ExamenPractico_U2_220512  
+- **Repositorio privado:** https://github.com/Alex01Dev/DMI_ExamenU2-220419.git 
 - **Versión del proyecto:** `v1.0-examen`  
 - **Último commit:** `docs: actualizar README con reporte de avance completo`  
 
