@@ -50,7 +50,7 @@ El presente informe describe las actividades realizadas, los cambios registrados
 
 ---
 
-## 🖼️ 5. Evidencia Gráfica
+## 🖼️ 5. Evidencia Gráfica..
 
 | Pantalla | Descripción | Imagen |
 |--------|-------------|--------|
