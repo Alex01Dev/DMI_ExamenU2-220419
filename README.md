@@ -54,8 +54,8 @@ El presente informe describe las actividades realizadas, los cambios registrados
 
 | Pantalla | Descripción | Imagen |
 |--------|-------------|--------|
-| Splash Screen | Pantalla inicial con animación, logo y sonido de bienvenida | ![Splash](imgs/splash.jpeg) |
-| Loading Screen | Barra de progreso con porcentaje dinámico de carga | ![Loading](imgs/progresivebar.jpeg) |
+| Splash Screen | Pantalla inicial con animación, logo y sonido de bienvenida | ![Splash](imgs/splash.jpg) |
+| Loading Screen | Barra de progreso con porcentaje dinámico de carga | ![Loading](imgs/progresivebar.jpg) |
 | Swiper Principal | Visualización de películas con información contextual | ![Swiper](imgs/pg13.jpeg) |
 | Series TV | Vista principal del módulo de series con múltiples categorías | ![Series](imgs/Series.jpg) |
 | Categorías Series | Organización detallada de series por sección | ![Categorias](imgs/CategoriasSeries.jpg) |
